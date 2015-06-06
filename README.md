@@ -1,0 +1,3 @@
+Tiny Virtual Machine Monitor (TVMM) is a yet-another virtual machine monitor, which has been developed for the purpose of education and verification. Since its design and implementation are simpler than those of existing virtual machine monitors (e.g., VMware, Xen), programmers can easily understand how the VMM works. In addition, TVMM is useful as a building block towards secure virtual machine monitors. We are planning to ensure security properties of TVMM using verification techniques and safe programming languages.
+
+Platforms supported by the current implementation include AMD64 architecture with virtualization technologies (secure virtual machine architecture).
